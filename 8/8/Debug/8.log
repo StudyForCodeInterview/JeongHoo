@@ -1,0 +1,4 @@
+﻿  8.cpp
+E:\JH_Study\코테\8\8\8.cpp(37,30): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\8\8\8.cpp(53,22): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  8.vcxproj -> E:\JH_Study\코테\8\Debug\8.exe
