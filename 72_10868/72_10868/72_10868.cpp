@@ -44,7 +44,7 @@ int main()
         cin >> seg_tree[input_index + i];
     }
  
-    //마지막이 홀수면
+    //마지막이 짝수인지 홀수인지 확인 후 처리
     bool isEven;
     if (input_index + N - 1 % 2 == 0)
         isEven = true;
