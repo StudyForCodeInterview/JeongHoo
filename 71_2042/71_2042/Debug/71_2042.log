@@ -1,0 +1,11 @@
+﻿  71_2042.cpp
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(40,40): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(44,37): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(53,18): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(53,44): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(75,31): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(77,14): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(85,18): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(97,32): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\71_2042\71_2042\71_2042.cpp(100,32): warning C4244: '인수': 'cdata'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  71_2042.vcxproj -> E:\JH_Study\코테\71_2042\Debug\71_2042.exe

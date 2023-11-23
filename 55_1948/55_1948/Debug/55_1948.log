@@ -1,0 +1,4 @@
+﻿  55_1948.cpp
+E:\JH_Study\코테\55_1948\55_1948\55_1948.cpp(56,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\55_1948\55_1948\55_1948.cpp(79,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  55_1948.vcxproj -> E:\JH_Study\코테\55_1948\Debug\55_1948.exe

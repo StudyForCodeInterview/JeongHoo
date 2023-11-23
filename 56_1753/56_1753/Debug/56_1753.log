@@ -1,0 +1,33 @@
+﻿  56_1753.cpp
+E:\JH_Study\코테\56_1753\56_1753\56_1753.cpp(54,25): warning C4244: '인수': '_Ty2'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=int64_t
+          ]
+E:\JH_Study\코테\56_1753\56_1753\56_1753.cpp(57,21): warning C4244: '인수': '_Ty2'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=int64_t
+          ]
+E:\JH_Study\코테\56_1753\56_1753\56_1753.cpp(59,43): warning C4244: '인수': '_Ty2'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=int64_t
+          ]
+E:\JH_Study\코테\56_1753\56_1753\56_1753.cpp(61,64): warning C4244: '인수': '_Ty1'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=int64_t
+          ]
+E:\JH_Study\코테\56_1753\56_1753\56_1753.cpp(63,33): warning C4244: '인수': '_Ty1'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty1=int64_t
+          ]
+E:\JH_Study\코테\56_1753\56_1753\56_1753.cpp(63,73): warning C4244: '인수': '_Ty2'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty2=int64_t
+          ]
+E:\JH_Study\코테\56_1753\56_1753\56_1753.cpp(70,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  56_1753.vcxproj -> E:\JH_Study\코테\56_1753\Debug\56_1753.exe

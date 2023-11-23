@@ -1,0 +1,23 @@
+﻿  60_1219.cpp
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(18,1): error C3874: 'main'의 반환 형식이 'int'이어야 하는데 '__int64'입니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(27,27): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(29,30): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(40,21): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(43,7): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(43,26): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(47,11): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(51,16): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(56,19): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(66,42): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(67,40): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(68,42): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(70,15): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(73,20): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(74,15): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(76,20): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(76,29): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(76,43): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(78,15): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(78,24): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(78,38): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\JH_Study\코테\60_1219\60_1219\60_1219.cpp(84,19): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.

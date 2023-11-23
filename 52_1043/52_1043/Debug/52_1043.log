@@ -1,0 +1,9 @@
+﻿  52_1043.cpp
+E:\JH_Study\코테\52_1043\52_1043\52_1043.cpp(46,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\52_1043\52_1043\52_1043.cpp(59,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\52_1043\52_1043\52_1043.cpp(63,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\52_1043\52_1043\52_1043.cpp(73,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\52_1043\52_1043\52_1043.cpp(87,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\52_1043\52_1043\52_1043.cpp(91,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\52_1043\52_1043\52_1043.cpp(93,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  52_1043.vcxproj -> E:\JH_Study\코테\52_1043\Debug\52_1043.exe

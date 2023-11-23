@@ -1,0 +1,5 @@
+﻿  63_1389.cpp
+E:\JH_Study\코테\63_1389\63_1389\63_1389.cpp(22,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\63_1389\63_1389\63_1389.cpp(49,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\JH_Study\코테\63_1389\63_1389\63_1389.cpp(52,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  63_1389.vcxproj -> E:\JH_Study\코테\63_1389\Debug\63_1389.exe
